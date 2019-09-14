@@ -451,7 +451,6 @@ body {
 }
 
 .user-icons i {
-	color: #ccc;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -460,9 +459,6 @@ body {
 }
 .user-icons a:last-child {
 	margin-right: 0;
-}
-.user-icons i:hover {
-	color: #999;
 }
 
 .paris-title {

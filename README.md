@@ -14,7 +14,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # :family: Team
 
-* **Aravind V. Nair** - [AravindVNair99](https://github.com/aravindvnair99)
+* **Aravind V. Nair** - [AravindVNair99](https://github.com/AravindVNair99)
+* **Sahana Shenoy** - [Sahana-Shenoy](https://github.com/Sahana-Shenoy)
 
 See the full list of [contributors](https://github.com/aravindvnair99/SPIC-MACAY-Amrita-Bengaluru/graphs/contributors) who participated in this project and statistics.
 

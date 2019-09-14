@@ -20,6 +20,21 @@ app.get('/Contact', (req, res) => {
 app.get('/StoryBehindPicture', (req, res) => {
 	res.render('StoryBehindPicture');
 });
+app.get('/ShinkeiSuijaku', (req, res) => {
+	res.render('ShinkeiSuijaku');
+});
+app.get('/PotBreaking', (req, res) => {
+	res.render('PotBreaking');
+});
+app.get('/TerraCotta', (req, res) => {
+	res.render('TerraCotta');
+});
+app.get('/MixMatch', (req, res) => {
+	res.render('MixMatch');
+});
+app.get('/FreebieShark', (req, res) => {
+	res.render('FreebieShark');
+});
 app.get('/Main', (req, res) => {
 	res.redirect('https://spicmacay.com/');
 });

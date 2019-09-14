@@ -799,30 +799,21 @@ body {
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
-.rss_icon {
-	background-color: #ff9934;
+.whatsapp_icon {
+	background-color: #25d366;
 }
-.rss_icon:hover,
-.rss_icon:focus {
-	background-color: #e6801c;
+.whatsapp_icon:hover,
+.whatsapp_icon:focus {
+	background-color: #15b066;
 }
 
-.twitter_icon {
+.instagram_icon {
+	background-color: #3f729b;
+}
+.instagram_icon:hover,
+.instagram_icon:focus {
 	background-color: #1abfdf;
 }
-.twitter_icon:hover,
-.twitter_icon:focus {
-	background-color: #0c98b3;
-}
-
-.facebook_icon {
-	background-color: #527ebf;
-}
-.facebook_icon:hover,
-.facebook_icon:focus {
-	background-color: #2b538d;
-}
-
 .form-group {
 	margin-bottom: 25px;
 }

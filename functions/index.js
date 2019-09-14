@@ -17,11 +17,8 @@ app.get('/About', (req, res) => {
 app.get('/Contact', (req, res) => {
 	res.render('contact');
 });
-app.get('/Team', (req, res) => {
-	res.render('team');
-});
-app.get('/Offline', (req, res) => {
-	res.render('offline');
+app.get('/StoryBehindPicture', (req, res) => {
+	res.render('StoryBehindPicture');
 });
 app.get('/Main', (req, res) => {
 	res.redirect('https://spicmacay.com/');

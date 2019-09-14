@@ -531,11 +531,29 @@ body {
 .first {
 	background-color: rgba(36, 148, 176, 0.8);
 }
+.first a {
+	color: rgb(255, 255, 255);
+}
+.first a:hover {
+	color: #ff0;
+}
 .second {
 	background-color: rgba(21, 150, 144, 0.8);
 }
+.second a {
+	color: rgb(255, 255, 255);
+}
+.second a:hover {
+	color: #ff0;
+}
 .third {
 	background-color: rgba(211, 150, 14, 0.8);
+}
+.third a {
+	color: rgb(255, 255, 255);
+}
+.third a:hover {
+	color: #ff0;
 }
 
 .footer {

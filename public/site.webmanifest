@@ -14,14 +14,14 @@
 		},
 		{
 			"src": "/logo.png",
-			"sizes": "500x500",
+			"sizes": "512x512",
 			"type": "image/png"
 		}
 	],
 	"theme_color": "#ffe202",
 	"background_color": "#ffe202",
-    "display": "standalone",
-    "start_url": "https://spic-macay-amrita.web.app/?utm_source=homescreen",
+	"display": "standalone",
+	"start_url": "https://spic-macay-amrita.web.app/?utm_source=homescreen",
 	"lang": "English",
 	"orientation": "any",
 	"description": "SPIC MACAY Amrita Bangalore"

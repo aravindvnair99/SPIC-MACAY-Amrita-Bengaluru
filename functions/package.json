@@ -1,6 +1,6 @@
 {
 	"name": "spic_macay_amrita",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"description": "SPIC MACAY Amrita Bangalore",
 	"author": "Aravind V Nair, Sahana Shenoy",
 	"scripts": {
@@ -18,7 +18,7 @@
 		"ejs": "^2.7.1",
 		"express": "^4.17.1",
 		"firebase-admin": "^8.6.0",
-		"firebase-functions": "^3.1.0"
+		"firebase-functions": "^3.3.0"
 	},
 	"devDependencies": {
 		"eslint": "^6.5.1",

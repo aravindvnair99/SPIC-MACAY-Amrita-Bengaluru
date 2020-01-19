@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<% include ga.ejs %> <% include head.ejs %>
+		<%- include('ga') -%> <%- include('head') -%>
 		<title>Gallery | SPIC MACAY Amrita Bangalore</title>
 		<meta name="description" content="SPIC MACAY Amrita Bangalore" />
 		<meta
@@ -20,7 +20,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="main-page">
-						<% include nav.ejs %>
+						<%- include('nav') -%>
 						<div class="content-main gallery_main">
 							<div class="gallery-main-inner">
 								<div class="col-md-12 gallery_title_main">
@@ -194,9 +194,9 @@
 						</div>
 					</div>
 				</div>
-				<% include footer.ejs %>
+				<%- include('footer') -%>
 			</div>
 		</div>
-		<% include scripts.ejs %>
+		<%- include('scripts') -%>
 	</body>
 </html>

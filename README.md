@@ -1,4 +1,4 @@
-# SPIC MACAY Amrita Bengaluru
+# SPIC MACAY Amrita Bengaluru ![](https://komarev.com/ghpvc/?username=AravindVNair99&label=Views)
 
 Official source code of SPIC MACAY Amrita Bangalore website.
 
